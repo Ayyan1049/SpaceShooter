@@ -78,6 +78,7 @@ SpaceShooter/
 │   ├── enemyRed.png
 │   ├── bullet.png
 │   └── Battle-Tough.otf
+|   └── spaceshooter.png
 └── README.md
 ```
 
@@ -92,7 +93,8 @@ SpaceShooter/
 
 ## 📸 Screenshots
 
-(assets/spaceshooter.png)
+<img width="1024" height="1024" alt="spaceshooter" src="https://github.com/user-attachments/assets/196c4e2e-e40c-47f4-bb42-384067a27e94" />
+
 
 ---
 
