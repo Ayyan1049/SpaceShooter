@@ -92,10 +92,10 @@ SpaceShooter/
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your game here!)*
+(assets/spaceshooter.png)
 
 ---
 
 ## 👤 Author
 
-Made with ❤️ as a C++ / SFML learning project.
+Made for SFML learning.
